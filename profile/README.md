@@ -1,4 +1,4 @@
-![Our MC Title Logo](democraft-title.png)
+![Our MC Title Logo](democraft_title.png)
 
 <!--
 
