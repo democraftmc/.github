@@ -1,4 +1,4 @@
-## Hi there 👋
+![Our MC Title Logo](democraft-title.png)
 
 <!--
 
