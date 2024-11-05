@@ -1,6 +1,8 @@
 ![Our MC Title Logo](democraft_title.png)
 
-<h3 align="center">DEMOCRAFT MEETS OPEN SOURCE</h3>
+<h4 align="center">DEMOCRAFT MEETS OPEN SOURCE</h4>
+
+*Welcome to the official* ***DEMOCRAFTMC*** *github group!*
 <!--
 
 **Here are some ideas to get you started:**
