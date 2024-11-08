@@ -1,4 +1,4 @@
-![Our MC Title Logo](democraft_title.png)
+![Our MC Title Logo](https://raw.githubusercontent.com/democraftmc/.github/profile/democraft_title.png)
 
 <h3 align="center">🌟 DEMOCRAFT MEETS OPEN SOURCE 🐛</h3>
 
