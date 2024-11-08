@@ -1,4 +1,4 @@
-![Our MC Title Logo](https://raw.githubusercontent.com/democraftmc/.github/profile/democraft_title.png)
+![Our MC Title Logo](https://raw.githubusercontent.com/democraftmc/.github/main/profile/democraft_title.png)
 
 <h3 align="center">🌟 DEMOCRAFT MEETS OPEN SOURCE 🐛</h3>
 
@@ -7,24 +7,14 @@
 
 # 📦 Our Projects
 <h3>
-  <img src="fork.png" width="18">
+  <img src="https://raw.githubusercontent.com/democraftmc/.github/main/profile/fork.png" width="18">
   1984
 </h3>
 <h3>
-  <img src="repo.png" width="18">
-  1984
+  <img src="https://raw.githubusercontent.com/democraftmc/.github/main/profile/repo.png" width="18">
+  D0CS
 </h3>
 <h3>
-  <img src="template.png" width="18">
-  1984
+  <img src="https://raw.githubusercontent.com/democraftmc/.github/main/profile/template.png" width="18">
+  ifk
 </h3>
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
