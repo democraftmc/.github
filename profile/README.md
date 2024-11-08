@@ -2,7 +2,22 @@
 
 <h3 align="center">🌟 DEMOCRAFT MEETS OPEN SOURCE 🐛</h3>
 
-*Welcome to the official* ***DEMOCRAFTMC*** *github group!*
+# 🌟 About Us
+*Welcome to the official* ***DEMOCRAFTMC*** *github group!* Here, on github, we host open source projects, website, create and contribute to forks for our Minecraft Server, **DEMOCRAFT**!
+
+# 📦 Our Projects
+<h3>
+  <img src="fork.png" width="18">
+  1984
+</h3>
+<h3>
+  <img src="repo.png" width="18">
+  1984
+</h3>
+<h3>
+  <img src="template.png" width="18">
+  1984
+</h3>
 <!--
 
 **Here are some ideas to get you started:**
