@@ -18,7 +18,7 @@ A VelocityMC plugin that allow players to choose a default server to be teleport
   D0CS & MARD0WN
 </h3
 
-Two reoo : one with a custom implementation of Lotusdocs called Mokadocs, and the other with all the markdown files the site run on.
+Two repos : one with a custom implementation of Lotusdocs called Mokadocs, and the other with all the markdown files the site run on.
 
 <h3>
   <img src="https://raw.githubusercontent.com/democraftmc/.github/main/profile/fork.png" width="18">
